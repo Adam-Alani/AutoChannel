@@ -7,7 +7,7 @@ client.on('ready', () => {
   client.user.setActivity("with Javascript.. and ur mom")
 });
 
-client.login("NzYwMDg0MTY0NjE1MjA4OTYw.X3G5ig.pN5hZOrwOs3gZqMRZHvVeq9Pdec");
+client.login(" ");
 
 // Code Starts Here //
 
